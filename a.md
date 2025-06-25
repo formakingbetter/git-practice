@@ -1,4 +1,4 @@
 git add <filename> --> staging
 
 git commit -m 'blah' --> commit
-ㅊ ㄴ ㅇㅈㅇㅈ
+ㅊ ㄴ ㅇㅈㅇㅈㄹㄷㄹ
